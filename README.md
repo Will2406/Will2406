@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Will2406
 - 👀 I’m interested in Android developemnt
-- 🌱 I’m currently learning python and Kotlin
+- 🌱 I’m currently learning python ,go , swift and Kotlin
 
 
 <!---
